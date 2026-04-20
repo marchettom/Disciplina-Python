@@ -1,0 +1,3 @@
+>lcl|U41284.1_prot_AAB19185.1_1 [protein=cytochrome c oxidase] [partial=3'] [protein_id=AAB19185.1] [location=5382..>5492] [gbkey=CDS]
+MASRLLRGAGTLAAQALRARGPSGAAAMRSMASGGTR
+
